@@ -1,0 +1,8 @@
+# CMake
+build
+
+# Zip
+*.zip
+
+# VSCode
+settings.json
